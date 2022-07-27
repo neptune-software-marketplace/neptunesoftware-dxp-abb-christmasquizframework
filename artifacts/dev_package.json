@@ -1,0 +1,47 @@
+{
+	"id": "0AB6194E-800D-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-27T07:47:04.576Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-christmasquizframework",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-christmasquizframework",
+	"description": null,
+	"ver": "22.7.27.748",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "2B3F074A-5D2A-EB11-B9ED-0003FF5948CD",
+			"ver": "22.7.27.947",
+			"application": "christmas2020quizflex",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
